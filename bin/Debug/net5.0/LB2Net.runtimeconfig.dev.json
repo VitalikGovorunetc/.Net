@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\govor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\govor\\.nuget\\packages"
+    ]
+  }
+}
